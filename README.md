@@ -1,6 +1,5 @@
-### Hi there 👋
-
-## This is where I keep most of my projects! Whether it's from university or personal, I give my all in these projects and I'm glad you're here today!
+## Welcome, visitor! :wave:
+## Whether it's from university or personal, I give my all in these projects and I'm glad you're here today!
 
 - 🌱 I’m currently learning **DevOps** and **CI/CD** skills like using **Docker**, **Kubernetes**, and **AWS** as that's the field I aspire to eventually work in.
 - 🔭 I’m currently working on earning certifications for the skills mentioned above, hopefully learning everything I need to do well in the field!
