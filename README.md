@@ -1,7 +1,7 @@
 ## :milky_way: Hello, dear Visitor! :alien: :wave:	##
 Whether it's from university or a personal project, I give my all in these projects and I'm glad you're here today!   
 
-:popcorn: For your Viewing Pleasure  :film_projector: : Each project should have a **README** file that will give you a **brief overview** of each project and **what I've learned** in doing the project along with **code snippets** :page_facing_up:.
+:popcorn: For your Viewing Pleasure  :film_projector: : Each project should have a **README** file that will give you a **brief overview** of each project and **what I've learned** in doing the project along with relevant **code snippets** :page_facing_up:.
 
 ### :paperclip: More about me: 
 - 🌱 I’m learning **DevOps** and **CI/CD** skills like using **Docker**, **Kubernetes**, and **AWS** as that's the field I aspire to eventually work in.
