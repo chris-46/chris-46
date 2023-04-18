@@ -1,5 +1,5 @@
 ## :milky_way: Hello, dear Visitor! :alien: :wave:	##
-Whether it's from university or a personal project, I give my all in these projects and I'm glad you're here today!
+Whether it's from university or a personal project, I give my all in these projects and I'm glad you're here to see them today!
 ### :popcorn: For your Viewing Pleasure :film_projector:
 Each project should have a **README** file that will give you a **brief overview** of each project and **what I've learned** in doing the project along with relevant **code snippets** :page_facing_up:.
 
