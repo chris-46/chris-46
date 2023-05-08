@@ -5,7 +5,7 @@ Each project should have a **README** file that will give you a **brief overview
 
 ### :paperclip: More about me: 
 - 🌱 I’m learning **DevOps** and **CI/CD** skills like using **Docker**, **Kubernetes**, and **AWS** as that's the field I aspire to eventually work in.
-- :hammer: I'm also planning to do a **full-stack web development** project in **JavaScript** using **React** and **HTML/CSS** with an integrated **PostgreSQL database**.
+- :hammer: I'm also working on a **full-stack web development** Trip Planner project in **TypeScript** using **React** and **HTML/CSS**.
 - :scroll: I’m currently working on **earning certifications** for the skills mentioned above, hopefully learning everything I need to do well in the field!
 
 ### :star2: Thanks for checking out my repository! :blush:
