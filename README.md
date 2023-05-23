@@ -3,7 +3,7 @@ Whether it's from university or a personal project, I give my all in these proje
 ### :popcorn: For your Viewing Pleasure :film_projector:
 Each project should have a **README** file that will give you a **brief overview** of each project and **what I've learned** in doing the project along with relevant **code snippets** :page_facing_up:.
 
-### :paperclip: More about me: \
+### :paperclip: More about me: 
 - :hammer: I'm working on a **full-stack web development** Trip Planner project in **TypeScript** using **React, HTML, and Tailwind CSS**.
 
 - 🌱 I’m learning **DevOps** and **CI/CD** skills like using **Docker**, **Kubernetes**, and **AWS** as that's the field I aspire to eventually work in.
