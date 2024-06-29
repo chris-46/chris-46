@@ -1,5 +1,5 @@
 ## :milky_way: Hello, dear Visitor! :alien: :wave:	##
-I'm Chris, a software engineer with a combined 2 years of experience in agile Object-Oriented development, Test Engineering, Build Engineering/DevOps, and MERN web development. I'm a passionate problem solver with an eye for detail and a determination to make things better, and I work with the goal to leave things better than how I found them.
+I'm Chris, a software engineer with a combined 2 years of experience in agile **Object-Oriented Development**, **Test Engineering**, **Build Engineering/DevOps**, and **MERN web development**. As a passionate problem solver with an eye for detail, I am dedicated to enhancing and optimizing every project I work on, always striving to leave things better than I found them.
 
 This is my personal repository that outlines how I've impreoved as a developer. Whether it's from university or a personal project, I give my all in these projects and I'm glad you're here to see them today!
 ### :popcorn: For your Viewing Pleasure :film_projector:
