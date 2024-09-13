@@ -6,10 +6,11 @@ This is my personal repository that outlines how I've improved as a developer. W
 Each project should have a **README** file that will give you a **brief overview** of each project and **what I've learned** in doing the project along with relevant **code snippets** :page_facing_up:.
 
 ### :paperclip: More about me: 
-- :hammer: I'm working on a **full-stack web development** AI Itinerary Project with **ReactJS**, **Express**, and **MongoDB**.
 
-- 🤖 I’m fascinated with the world of AI, and I'm starting a **Python** project that uses **Pydantic** and **Langchain** to do some pretty cool stuff!.
-
+- 🤖 I’m fascinated with the world of AI, and I'm working on a **Python** project that uses **Pydantic** and **Langchain** to do some pretty cool stuff!.
+  
+- 🥳 I recently completed a **full-stack web development** AI Itinerary Project with **ReactJS**, **Express**, and **MongoDB**.
+  
 - ⏭️ Next, I'd like to level up my **Build Engineering/DevOps** by working with **CI/CD** tools like **Docker**, **Kubernetes**, **Terraform**, and **AWS**.
   - The goal is to make a project where I can host all my past projects to demo, and I can publish changes that that will be pushed on the demo.
 
